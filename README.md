@@ -1,1 +1,1 @@
-# tutorato_python
+# cartella per esercizi corso progetto
